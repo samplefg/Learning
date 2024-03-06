@@ -3,7 +3,7 @@ public class RotationOfArray {
 
     RotationOfArray(int size){
         array = new int[size];
-    }
+    } 
     
     //Right Rotation
     public void rotate(int pos){
