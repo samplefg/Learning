@@ -1,4 +1,4 @@
-package Assignment;
+
 import java.util.Scanner;
 public class Practise3 {
     public static void main(String[]args){
